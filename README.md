@@ -5,17 +5,16 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-### Connect with me:
-
-[<img align="left" alt="Sandip Salunkhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-<br />
+<br/>
 
 ### Languages and Tools:
 
 [<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][noone]
-[<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][noone]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][noone]
+[<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][noone]
+[<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/55046838/89288131-c6507980-d672-11ea-91db-b515a4df88d4.png" />][noone]
+[<img align="left" alt="Angular" title="Angular" width="26px" src="https://user-images.githubusercontent.com/55046838/89288398-352dd280-d673-11ea-9092-4bd2acb71fee.png" />][noone]
+[<img align="left" alt="TypeScript" title="TypeScript" width="26px" src="https://user-images.githubusercontent.com/55046838/89288699-b1c0b100-d673-11ea-8621-b72da997af5e.png" />][noone]
 [<img align="left" alt="Visual Studio Code" title="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][noone]
 [<img align="left" alt="SQL" title="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][noone]
 [<img align="left" alt="MySQL" title="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][noone]
@@ -30,6 +29,8 @@
 
 -->
 <br />
+
+
 <br />
 
 
@@ -39,17 +40,21 @@
 
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 -->
-<img align="left" alt="Sandip Salunkhe Github Stats" src="https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&show_icons=true&hide_border=true" />
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsalunkhe007)](https://github.com/sandipsalunkhe007/github-readme-stats)
+![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsalunkhe007&layout=compact)](https://github.com/sandipsalunkhe007/github-readme-stats)
 
 
-![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 
+
+
+### Connect with me:
+
+[<img align="left" alt="Sandip Salunkhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br />
 
 [linkedin]: https://linkedin.com/in/sandip-salunkhe-b0165bab
 [noone]: #
