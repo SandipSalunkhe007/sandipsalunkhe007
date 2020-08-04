@@ -13,6 +13,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 [<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][noone]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][noone]
+[<img align="left" alt="Python" title="Python" width="26px" src="https://user-images.githubusercontent.com/55046838/89293742-07995700-d67c-11ea-9c26-ebe7f883c813.png" />][noone]
 [<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][noone]
 [<img align="left" alt="Bootstrap" title="Bootstrap" width="26px" src="https://user-images.githubusercontent.com/55046838/89288131-c6507980-d672-11ea-91db-b515a4df88d4.png" />][noone]
 [<img align="left" alt="Angular" title="Angular" width="26px" src="https://user-images.githubusercontent.com/55046838/89288398-352dd280-d673-11ea-9092-4bd2acb71fee.png" />][noone]
