@@ -53,7 +53,7 @@ This is the place where I opensource stuff and break things :rofl:
 
 [<img align="left" alt="Sandip Salunkhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-![](https://visitor-badge.glitch.me/badge?page_id=SandipSalunkhe007.SandipSalunkhe007)
+![](https://visitor-badge.glitch.me/badge?page_id=sandipsalunkhe007.sandipsalunkhe007)
 
 <br />
 
