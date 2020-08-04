@@ -5,10 +5,9 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
-<br/>
 
 ### Languages and Tools:
-
+<br/>
 [<img align="left" alt="HTML5" title="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][noone]
 [<img align="left" alt="JavaScript" title="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][noone]
 [<img align="left" alt="CSS3" title="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][noone]
@@ -40,13 +39,11 @@
 
 - [Next Level GitHub Profile README (NEW) | How To Create An Amazing Profile ReadMe With GitHub Actions](https://www.youtube.com/watch?v=ECuqb5Tv9qI)
 -->
-
+<div>
 ![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsalunkhe007&layout=compact)](https://github.com/sandipsalunkhe007/github-readme-stats)
-
-
+</div>
 
 
 
