@@ -1,10 +1,12 @@
-<h1 align='center'> Hi! 👋</h1>
+### Hi there 👋
+This is the place where I opensource stuff and break things :rofl:
+![](https://visitor-badge.glitch.me/badge?page_id=SandipSalunkhe007.SandipSalunkhe007)
 
 - 🔭 I’m currently working on a something cool!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-
+- 📫 How to reach me: [@sandipsalunkhe](https://linkedin.com/in/sandip-salunkhe-b0165bab)
 
 
 ### Languages and Tools:
