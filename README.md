@@ -6,6 +6,7 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
 
+
 ### Languages and Tools:
 
 
@@ -32,7 +33,7 @@
 <br />
 <br />
 
-
+<p></p>
 <!-- YOUTUBE:START 
 ---
 ### 📺 Latest YouTube Videos
@@ -40,10 +41,11 @@
 -->
 
 
-![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsalunkhe007&layout=compact)](https://github.com/sandipsalunkhe007/github-readme-stats)
 
+
+![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 
 
 ### Connect with me:
