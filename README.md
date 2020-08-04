@@ -1,6 +1,5 @@
 ### Hi there 👋
 This is the place where I opensource stuff and break things :rofl:
-![](https://visitor-badge.glitch.me/badge?page_id=SandipSalunkhe007.SandipSalunkhe007)
 
 - 🔭 I’m currently working on a something cool!
 - 🌱 I’m currently learning everything 🤣
@@ -53,6 +52,8 @@ This is the place where I opensource stuff and break things :rofl:
 ### Connect with me:
 
 [<img align="left" alt="Sandip Salunkhe | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+![](https://visitor-badge.glitch.me/badge?page_id=SandipSalunkhe007.SandipSalunkhe007)
 
 <br />
 
