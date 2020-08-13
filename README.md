@@ -43,10 +43,10 @@ This is the place where I opensource stuff and break things :rofl:
 -->
 
 
-
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sandipsalunkhe007&layout=compact)](https://github.com/sandipsalunkhe007/github-readme-stats)
 
-<!--
+
 ![Sandip Salunkhe github stats](https://github-readme-stats.vercel.app/api?username=sandipsalunkhe007&include_all_commits=true)
 -->
 
